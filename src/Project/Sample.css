@@ -1,0 +1,14 @@
+#head{
+    color: purple;
+    background-color: bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-text-stroke: 0.1px red;
+    
+}
+#head2{
+    color: white;
+    background-color: burlywood;
+    background-image: linear-gradient(purple,white,red,yellow,black,cyan);
+    background-image: radial-gradient(white,purple,yellow,red);
+    background-image: -webkit-gradient();
+}

@@ -17,7 +17,7 @@ const EnhancedComponent=(OrComponent)=>{
         {
             return <OrComponent name="suit"
             count={this.state.count}
-            increment={this.inc}/>
+            inc={this.inc}/>
         }
     }
         return NewComponent
